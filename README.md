@@ -1,1 +1,1 @@
-## Project using mySQL API and JavaScript with React
+## CRUD App using React, Node, and mySQL
