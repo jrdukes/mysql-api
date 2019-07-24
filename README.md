@@ -1,1 +1,1 @@
-## Project using mySQL AP, JavaScript with React
+## Project using mySQL API and JavaScript with React
